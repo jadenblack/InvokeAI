@@ -80,7 +80,7 @@ dependencies = [
   "semver~=3.0.1",
   "send2trash",
   "test-tube~=0.7.5",
-  "torch==2.1.1",
+  "torch==2.8.0",
   "torchvision==0.16.1",
   "torchmetrics~=0.11.0",
   "torchsde~=0.2.5",
